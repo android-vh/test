@@ -16,7 +16,10 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
 
-            fix fix
+            mod 1
+            mod fix fix 2
+            
+
         }
     }
 }

@@ -5,6 +5,7 @@ pluginManagement {
 
                 v1
                 v2
+                task 60 solved
                 includeGroupByRegex("com\\.android.*")
                 includeGroupByRegex("com\\.google.*")
                 includeGroupByRegex("androidx.*")

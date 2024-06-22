@@ -4,6 +4,7 @@ pluginManagement {
             content {
 
                 v1
+                v2
                 includeGroupByRegex("com\\.android.*")
                 includeGroupByRegex("com\\.google.*")
                 includeGroupByRegex("androidx.*")
